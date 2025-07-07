@@ -1,8 +1,8 @@
-# 🐍 Python Fundamentals for Data Science & Machine Learning
+# Data Science & Machine Learning Fundamentals
 
 This repository contains clean, beginner friendly Jupyter notebooks that cover core Python programming essentials, specifically curated for data science and machine learning.
 
-## 📚 Topics Covered
+## Topics Covered
 
 - ✅ Python Core: data types, loops, conditionals, functions
 - ✅ Data Structures: lists, dictionaries, sets, tuples
@@ -14,7 +14,7 @@ This repository contains clean, beginner friendly Jupyter notebooks that cover c
 - ✅ Regex and String Handling
 
 
-## 🛠 How to Run
+## How to Run
 
 1. Clone this repo
 2. Create and activate a virtual environment (optional):
@@ -28,7 +28,7 @@ This repository contains clean, beginner friendly Jupyter notebooks that cover c
     jupyter notebook
     ```
 
-## ✅ Ideal For
+## Ideal For
 
 - Beginners in Python
 - Aspiring data scientists and ML engineers
