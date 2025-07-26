@@ -1,40 +1,49 @@
-# Data Science & Machine Learning Fundamentals
+# Machine Learning & Data Science Fundamentals
 
-This repository contains clean, beginner friendly Jupyter notebooks that cover core Python programming essentials, specifically curated for data science and machine learning.
+This repository contains clean, beginner-friendly Jupyter notebooks that cover the essential foundations of machine learning, data science, and deep learning using Python. The notebooks are designed to help you build practical skills by working through real-world examples and core algorithms step by step.
 
-## Topics Covered
+## Topics Covered (and Planned)
 
-- ✅ Python Core: data types, loops, conditionals, functions
-- ✅ Data Structures: lists, dictionaries, sets, tuples
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Python Standard Library (os, math, datetime, etc.)
-- ✅ File Handling and Exceptions
-- ✅ Iterators and Generators
-- ✅ Comprehensions and Functional Tools (map/filter/lambda)
-- ✅ Regex and String Handling
-
+- ✅ Python Programming Essentials for Data Science
+- ✅ Data Structures, OOP, and Python Standard Library
+- ✅ Data Handling, Preprocessing, and Visualization
+- ✅ Linear Regression (Simple & Multiple)
+- ✅ Polynomial Regression
+- ✅ Logistic Regression
+- ⏳ Support Vector Regression (SVR)
+- ⏳ Decision Trees & Random Forests (Regression & Classification)
+- ⏳ Model Evaluation & Selection (Regression & Classification)
+- ⏳ K-Nearest Neighbors (KNN)
+- ⏳ Support Vector Machines (SVM, Kernel SVM)
+- ⏳ Naive Bayes
+- ✅ Clustering (K-Means, Hierarchical)
+- ⏳ Association Rule Learning (Apriori, Eclat)
+- ⏳ Reinforcement Learning (UCB, Thompson Sampling)
+- ⏳ Natural Language Processing (NLP)
+- ⏳ Deep Learning (ANN, CNN)
+- ⏳ Dimensionality Reduction (PCA, LDA, Kernel PCA)
+- ⏳ Model Selection & Boosting (XGBoost, etc.)
 
 ## How to Run
 
 1. Clone this repo
 2. Create and activate a virtual environment (optional):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate
-    pip install -r requirements.txt
-    ```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   ```
 3. Launch Jupyter:
-    ```bash
-    jupyter notebook
-    ```
+   ```bash
+   jupyter notebook
+   ```
 
 ## Ideal For
 
-- Beginners in Python
+- Beginners in machine learning and data science
 - Aspiring data scientists and ML engineers
-- Anyone building a solid foundation in Python
+- Anyone building a solid foundation in Python and ML
+
 ---
 
 Give a ⭐ if you find this useful!
-
-
