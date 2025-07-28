@@ -10,10 +10,10 @@ This repository contains clean, beginner-friendly Jupyter notebooks that cover t
 - ✅ Linear Regression (Simple & Multiple)
 - ✅ Polynomial Regression
 - ✅ Logistic Regression
-- ⏳ Support Vector Regression (SVR)
-- ⏳ Decision Trees & Random Forests (Regression & Classification)
-- ⏳ Model Evaluation & Selection (Regression & Classification)
-- ⏳ K-Nearest Neighbors (KNN)
+- ✅ Support Vector Regression (SVR)
+- ✅ Decision Trees & Random Forests (Regression & Classification)
+- ✅ Model Evaluation & Selection (Regression & Classification)
+- ✅ K-Nearest Neighbors (KNN)
 - ⏳ Support Vector Machines (SVM, Kernel SVM)
 - ⏳ Naive Bayes
 - ✅ Clustering (K-Means, Hierarchical)
