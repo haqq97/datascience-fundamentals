@@ -17,12 +17,8 @@ This repository contains clean, beginner-friendly Jupyter notebooks that cover t
 - ✅ Naive Bayes
 - ✅ Model Evaluation & Selection (Regression & Classification)
 - ✅ Clustering (K-Means, Hierarchical)
-- ⏳ Association Rule Learning (Apriori, Eclat)
-- ⏳ Reinforcement Learning (UCB, Thompson Sampling)
-- ⏳ Natural Language Processing (NLP)
-- ⏳ Deep Learning (ANN, CNN)
-- ⏳ Dimensionality Reduction (PCA, LDA, Kernel PCA)
-- ⏳ Model Selection & Boosting (XGBoost, etc.)
+- ✅ Natural Language Processing (NLP)
+- ✅ Deep Learning (ANN, CNN)
 
 ## How to Run
 
